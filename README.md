@@ -1,7 +1,7 @@
 # imdb_sentiment_analysis
 
 Sentiment analysis of IMDB reviews using different neural network architectures.
-Read a brief rapport on the models and results in Description_of_Project_and_Restults.pdf
+Read a brief report on the models and results in Description_of_Project_and_Restults.pdf
 
 Modules used in the scripts:
 -numpy
