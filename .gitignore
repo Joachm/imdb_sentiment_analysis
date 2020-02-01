@@ -3,3 +3,5 @@
 *.pickle
 *.csv
 *.swp
+*.hdf5
+*.odt
